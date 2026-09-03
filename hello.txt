@@ -2,3 +2,5 @@ Hello Git!
 This is my first Git project.
 i am learning git and github
 I am practicing Git.
+I am learning git diff.
+Git is easy to learn.
