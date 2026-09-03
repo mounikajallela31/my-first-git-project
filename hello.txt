@@ -1,3 +1,4 @@
 Hello Git!
 This is my first Git project.
-i am learning git and githubs
+i am learning git and github
+I am practicing Git.
