@@ -1,7 +1,7 @@
 Hello Git!
 This is my first Git project.
 i am learning git and github
-I am practicing Git.
+I am practicing Java.
 I am learning git diff.
 Git is easy to learn.
 I am practicing Git status.
